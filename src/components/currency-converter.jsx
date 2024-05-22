@@ -96,7 +96,7 @@ const CurrencyConverter = () => {
           className="w-full p-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 mt-1"
         />
       </div>
-      {/* now! */}
+      {/* Once Again I Strike! */}
       <div className="flex justify-end mt-6">
         <button
           onClick={convertCurrency}
